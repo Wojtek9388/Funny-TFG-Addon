@@ -1,3 +1,3 @@
-[submodule "a"]
-	path = a
-	url = https://github.com/TerraFirmaGreg-Team/.github
+[submodule "mods"]
+	path = mods
+	url = https://github.com/TerraFirmaGreg-Team/Mods-Modern.git
